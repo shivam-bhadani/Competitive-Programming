@@ -1,5 +1,5 @@
 /*
-    Author: Shivam Bhadani (@Shivam28nov)
+    Author: Shivam Bhadani
     Linkedin: https://www.linkedin.com/in/shivambhadani
     Github: https://github.com/shivam-bhadani
 */

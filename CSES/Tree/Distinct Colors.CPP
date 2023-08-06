@@ -1,3 +1,9 @@
+/*
+    Author: Shivam Bhadani
+    Linkedin: https://www.linkedin.com/in/shivambhadani
+    Github: https://github.com/shivam-bhadani
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
